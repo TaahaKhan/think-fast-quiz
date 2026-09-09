@@ -87,7 +87,7 @@ gcc sourceCode.c -o thinkfast
 
 ## 👥 Authors
 
-- **23K-0583**
+- **Taaha Khan (23K-0583)**
 
 ---
 
