@@ -1,4 +1,3 @@
-// 23k-0674
 // 23k-0583
 #include <stdio.h>
 #include <string.h>
