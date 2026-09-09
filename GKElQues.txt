@@ -1,0 +1,90 @@
+1.What is the capital of France?
+	a. Berlin
+	b. Madrid
+	c. Paris
+	d. Rome
+
+2.Which planet is known as the Red Planet?
+	a. Mars
+	b. Venus
+	c. Jupiter
+	d. Saturn
+
+3.Who wrote Romeo and Juliet?
+	a. Charles Dickens
+	b. William Shakespeare
+	c. Jane Austen
+	d. Mark Twain
+
+4.In what year did World War II end?
+	a. 1945
+	b. 1939
+	c. 1940
+	d. 1941
+
+5.What is the largest mammal in the world?
+	a. Elephant
+	b. Blue Whale
+	c. Giraffe
+	d. Hippopotamus
+
+6.Who painted the Mona Lisa?
+	a. Vincent van Gogh
+	b. Leonardo da Vinci
+	c. Pablo Picasso
+	d. Michelangelo
+
+7.What is the currency of Japan?
+	a. Yuan
+	b. Euro
+	c. Yen
+	d. Won
+
+8.Which element has the chemical symbol O?
+	a. Oxygen
+	b. Gold
+	c. Silver
+	d. Iron
+
+9.What is the capital of Australia?
+	a. Sydney
+	b. Melbourne
+	c. Canberra
+	d. Brisbane
+
+10.Who is known as the Father of Computer Science?
+	a. Alan Turing
+	b. Bill Gates
+	c. Steve Jobs
+	d. Mark Zuckerberg
+
+11.In what year did Christopher Columbus reach the Americas?
+	a. 1492
+	b. 1500
+	c. 1607
+	d. 1776
+
+12.What is the largest ocean on Earth?
+	a. Atlantic Ocean
+	b. Indian Ocean
+	c. Southern Ocean
+	d. Pacific Ocean
+
+13.What is the capital of Canada?
+	a. Ottawa
+	b. Toronto
+	c. Vancouver
+	d. Montreal
+
+14.Which country is known as the Land of the Rising Sun?
+	a. China
+	b. Japan
+	c. South Korea
+	d. Vietnam
+
+15.What is the chemical symbol for gold?
+	a. Gd
+	b. Au
+	c. Ag
+	d. Fe
+

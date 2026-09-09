@@ -1,0 +1,90 @@
+1. What is the primary purpose of a loop in programming?
+	a. Input data
+	b. Repeated execution of code
+	c. Define variables
+	d. Output results
+
+2. What does the term "IDE" stand for in programming?
+	a. Integrated Development Environment
+	b. Intelligent Design Engine
+	c. Interactive Data Exchange
+	d. Interface Design Enhancement
+
+3. In programming, what is a variable?
+	a. A constant value
+	b. A container for storing data
+	c. A programming language
+	d. A function
+
+4. What is the purpose of conditional statements in programming?
+	a. Loop through code
+	b. Make decisions based on conditions
+	c. Define variables
+	d. Display output
+
+5. Which data type is used for storing whole numbers in most programming languages?
+	a. Float
+	b. Double
+	c. Integer
+	d. Char
+
+6. Which of the following is NOT a programming language?
+	A. Python
+	B. HTML
+	C. Java
+	D. Adobe Photoshop
+
+7. Which symbol is commonly used for comments in many C-programming language?
+	A. //
+	B. **
+	C. --
+	D. #
+
+8. What does the acronym "OOP" stand for in programming?
+	a. Object-Oriented Programming
+	b. Output Operation Process
+	c. Overarching Optimization Protocol
+	d. Object-Oriented Process
+
+9. What is the purpose of the "while" loop in programming?
+	a. Define variables
+	b. Repeated execution of code
+	c. Input data
+	d. Display output
+
+10. In programming, what does the term "syntax" refer to?
+	a. Variable names
+	b. Grammar rules of a language
+	c. Loop structure
+	d. Output formatting
+
+11. Which of the following is an example of a high-level programming language?
+	a. Assembly language
+	b. Machine language
+	c. Python
+	d. Binary code
+
+12. Which programming concept allows a function to call itself?
+	A. Loop
+	B. Recursion
+	C. Array
+	D. Variable
+
+13. Which of the following is a reserved word in many programming languages?
+	A. Variable
+	B. Loop
+	C. If
+	D. Banana
+
+14. What does the term "algorithm" mean in programming?
+	a. A type of loop
+	b. A step-by-step procedure for solving a problem
+	c. A programming language
+	d. Output formatting
+
+15. Which of the following is a common programming error?
+	a. Syntax error
+	b. Comment error
+	c. Loop error
+	d. Variable error
+

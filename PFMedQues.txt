@@ -1,0 +1,90 @@
+1. Which data structure stores elements in a key-value pair format?
+	a. Array
+	b. Queue
+	c. Dictionary
+	d. Stack
+
+2. What is the result of 3 + 5 * 2?
+	A. 16
+	B. 13
+	C. 11
+	D. 26
+
+3. What does the term "API" stand for in programming?
+	a. Application Programming Interface
+	b. Automated Programming Interface
+	c. Advanced Programming Integration
+	d. Application Protocol Interface
+
+4. Which of the following is NOT a primitive data type in most programming languages?
+	A. Integer
+	B. Float
+	C. Array
+	D. Boolean
+
+5. What does the acronym "HTML" stand for?
+	A. Hyper Text Markup Language
+	B. High-Level Text Modeling Language
+	C. Hyperlink and Text Markup Language
+	D. Home Tool Markup Language
+
+6. What is the role of the "else" statement in an "if-else" construct?
+	A. To end the program
+	B. To execute the code block if the condition is true
+	C. To execute the code block if the condition is false
+	D. To repeat a loop
+
+7. What is the term for a named storage location in computer memory that contains a value?
+	A. Variable
+	B. Constant
+	C. Pointer
+	D. Operator
+
+8. Which of the following is an example of a relational operator?
+	A. +
+	B. *
+	C. ==
+	D. %
+
+9. What is the result of the expression 10 % 3?
+	A. 1
+	B. 2
+	C. 3
+	D. 0
+
+10. In programming, what is the role of an "array"?
+	A. To store a single value
+	B. To store multiple values of different data types
+	C. To store a boolean value
+	D. To perform mathematical operations
+
+11. Which of the following is used to represent an "or" condition in a logical expression?
+	A. ||
+	B. &&
+	C. !
+	D. ==
+
+12. What is the term for a variable that can hold different data types at different times during execution?
+	A. Constant
+	B. Dynamic variable
+	C. Static variable
+	D. Variant variable
+
+13. In object-oriented programming, what is encapsulation?
+	A. Hiding the implementation details of an object
+	B. Creating multiple instances of a class
+	C. Breaking a program into smaller functions
+	D. Performing arithmetic operations
+
+14. What is the purpose of the "malloc" function in C programming?
+	A. To print output
+	B. To allocate memory
+	C. To declare a variable
+	D. To perform mathematical operations
+
+15. What does the term "DRY" stand for in the context of functions or methods?
+	A. Do Repeat Yourself
+	B. Don't Repeat Yourself
+	C. Dry Run Yourself
+	D. Do Reinvent Yourself
+

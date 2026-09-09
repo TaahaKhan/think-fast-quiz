@@ -1,0 +1,90 @@
+1. What is the time complexity of the quicksort algorithm in the worst case?
+	a. O(n)
+	b. O(n log n)
+	c. O(n^2)
+	d. O(log n)
+
+2. In object-oriented programming, what is the process by which one class can inherit the properties and behaviors of another class?
+	a. Polymorphism
+	b. Inheritance
+	c. Encapsulation
+	d. Abstraction
+
+3.  In the context of databases, what does SQL stand for?
+	a. Structured Query Language
+	b. Simple Question Language
+	c. System Query Language
+	d. Sequential Query Language
+
+4. Which data structure follows the Last In, First Out (LIFO) principle?
+	a. Queue
+	b. Stack
+	c. Linked List
+	d. Tree
+
+5.  Which of the following sorting algorithms has the best average-case time complexity?
+	a. Bubble Sort
+	b. Insertion Sort
+	c. QuickSort
+	d. Selection Sort
+
+6. Which of the following is not a valid way to declare a variable in JavaScript?
+	a. var x;
+	b. let x;
+	c. const x;
+	d. variable x;
+
+7. What does the acronym 'HTTP' stand for?
+	a. HyperText Transfer Protocol
+	b. High-Tech Transfer Protocol
+	c. HyperTransfer Text Protocol
+	d. HyperText Transmission Protocol
+
+8.  Which of the following is not a valid primitive data type in C++?
+	a) int
+	b) float
+	c) string
+	d) char
+
+9.  What is the purpose of the 'sizeof' operator in C?
+	a. It returns the size of a variable in bytes.
+	b. It returns the address of a variable.
+	c. It returns the value stored in a variable.
+	d. It returns the data type of a variable.
+
+10. In C, what is the correct syntax to declare a pointer to an integer?
+	a. int* x;
+	b. int x*;
+	c. pointer x int;
+	d. int x&;
+
+11. What does the '->' operator do in C?
+	a. It is the multiplication operator.
+	b. It is used for bitwise operations.
+	c. It is the member access operator for pointers to structures.
+	d. It is used for logical negation.
+
+12. In C, what is the purpose of the 'fgets' function?
+	a. It is used to read characters from the standard input.
+	b. It is used to read a line from a file.
+	c. It is used to write characters to the standard output.
+	d. It is used to concatenate strings.
+
+13. Which header file should be included to use the 'sqrt' function in C?
+	a. #include <math.h>
+	b. #include <stdio.h>
+	c. #include <stdlib.h>
+	d. #include <string.h>
+
+14.  In C, what is the purpose of the 'volatile' keyword?
+	a. It indicates that the variable cannot be modified
+	b. It indicates that the variable can be modified asynchronously
+	c. It specifies the variable as a constant
+	d. It declares a variable without allocating storage space
+
+15. What is the size of the array arr in bytes, given the declaration: int arr[5][10];?
+	a. 50
+	b. 40
+	c. 20
+	d. 200
+

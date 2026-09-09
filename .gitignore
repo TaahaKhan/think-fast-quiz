@@ -1,0 +1,24 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+thinkfast
+
+# Project reports & presentations (not source code)
+*.pdf
+
+# Old/debug versions of source code
+TimerNotWorking*.c
+
+# IDE & editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+desktop.ini

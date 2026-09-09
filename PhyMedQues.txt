@@ -1,0 +1,90 @@
+1.  N/C =
+	a. V/A
+	b. J/V
+	c. V/m
+	d. A/m
+
+2. Three equal resistors connected in series with a source of emf together dissipate 10 W of power each. What will be the power dissipated if the same resistors are connected in parallel across the same source of emf?
+	a. 40 W
+	b. 90W
+	c. 100W
+	d. 120W
+
+3. Formation of the large molecule by joining small molecules is:
+	a. Fusion
+	b. Polymerization
+	c. Crystallization
+	d. Subtraction
+
+4.  Reverse process of photoelectric effect is:
+	a. Pair production
+	b. Compton effect
+	c. Annihilation of matter
+	d. X-rays production
+
+5. As the temperature of the black body is raised the wavelength corresponding to the maximum intensity:
+	a. Shifts towards longer wavelength
+	b. Shifts towards shorter wavelength
+	c. Remain the same
+	d. Shifts towards longer as well as shorter wavelengths
+
+6. Terminal velocity is:
+	a. Uniform
+	b. Maximum
+	c. Uniform and maximum
+	d. Neither uniform nor maximum
+
+7. In cricket when a bowler produce reverse swing the ball will move towards:
+	a.The shinning side of the ball
+	b. Rough side
+	c. The seam of the ball
+	d. Goes straight
+
+8. The direction of the vector product is given by:
+	a. Head to tail rule
+	b. Right-hand rule
+	c. Left-hand rule
+	d. Triangular rule
+
+9. Null vector is a vector which has:
+	a. Zero magnitude
+	b. No specified direction
+	c. Both A and B are correct
+	d. Both A and B are not correct
+
+10.  When a force is parallel to the direction of motion of the body, then work done on the body is:
+	a. Zero
+	b. Minimum
+	c. Infinity
+	d. Maximum
+
+11. Which of the following is not a conservative force:
+	a. Friction
+	b. Electric
+	c. Gravitational
+	d. Magnetic
+
+12. A body is moving with uniform velocity. Its:
+	a. Speed changes
+	b. Acceleration changes
+	c. The direction of motion changes
+	d. Displacement from origin changes
+
+13. The time rate of change of momentum is equal to:
+	a. Force
+	b. Impulse
+	c. Velocity
+	d. Both A and C
+
+14.  The charge on beta particle is:
+	a. 1
+	b. -1
+	c. 2
+	d. -2
+
+15. A body is falling freely under gravity. How much distance does it fall during an interval of time between 1st and 2nd seconds of its motion, taking g=10?
+	a. 14 m
+	b. 20 m
+	c. 5 m
+	d. 25 m
+

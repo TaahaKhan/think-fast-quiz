@@ -1,0 +1,90 @@
+1. What is the definition of power?
+	a. Power is the product of force and velocity.
+	b. Power is the product of force and work done.
+	c. Power is the rate of change of velocity.
+	d. Power is the rate of change at which work is done.
+
+2. Which quantity could have the units of NmV^-1?
+	a. Acceleration
+	b. Charge
+	c. Current
+	d. Resistance
+
+3.Which expression is equal to the stress on a wire?
+	a. Extension/original length
+	b. Force/cross-sectional area
+	c. Force/extension
+	d. Young's modulus/original length
+
+4. Which statement is correct for longitudinal waves but not correct for transverse waves?
+	a. They can form stationary waves.
+	b. They can only travel through a medium.
+	c. They can transfer energy in the direction of travel.
+	d. They consists of peaks and troughs.
+
+5. What is meant by the mass of an object?
+	a. The property of the object that resists a change in motion.
+	b. The pull of the Earth on the object.
+	c. The total number of atoms in the object.
+	d. The weight of the object.
+
+6. A stone is falling vertically through air at a constant (terminal. velocity). Which energy change is occuring?
+	a. Gravitational potential energy to thermal energy.
+	b. Gravitational potential energy to kinetic energy of the stone.
+	c. Kinetic energy to Gravitational potential energy of the stone.
+	d. Kinetic energy of the stone to thermal energy.
+
+7. Which list shows electromagnetic waves in order of decreasing frequency?
+	a. gamma rays > infrared > ultraviolet > radio waves
+	b. gamma rays > ultraviolet > infrared > radio waves
+	c. radio waves > infrared > ultraviolet > gamma rays
+	d. radio waves > ultraviolet > infrared > gamma rays
+
+8. Which physical quantity could have units of Ns^2m^-1?
+	a. Acceleration
+	b. Force
+	c. Mass
+	d. Momentum
+
+9. Two lasers emit light in a vacuum. One laser emits red light and the other emits green light. Which property of the light from the two lasers must be different?
+	a. Amplitude
+	b. Frequency
+	c. Intensity
+	d. Speed
+
+10. One light year is equal to
+	a. 9.5x10^15 m
+	b. 9.5x10^15 sec
+	c. 9.5x10^15 Km
+	d. 9.5x10^15 cm
+
+11. A body is moving with uniform velocity. Its:
+	a. Speed changes
+	b. Acceleration changes
+	c. The direction of motion changes
+	d. Displacement from origin changes
+
+12. Weber is the unit of: 
+	a. Magnetic field intensity
+	b. Magnetic induction
+	c. Magnetic flux
+	d. Self-inductance
+
+13. When the amplitude of a wave becomes double its energy become:
+	a. Double
+	b. Four times
+	c. One half
+	d. None time
+
+14. The velocity of sound is greatest in:
+	a. Water
+	b. Air
+	c. Copper
+	d. Ammonia
+
+15. During fusion of hydrogen into helium:
+	a. Energy is absorbed
+	b. Energy is released
+	c. Mass is increased due to energy absorption
+	d. Mass is reduced due to the energy released
+

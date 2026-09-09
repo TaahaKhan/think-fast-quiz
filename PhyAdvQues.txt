@@ -1,0 +1,90 @@
+1. What is the primary force responsible for holding the nucleus of an atom together?
+	a. Gravitational force
+	b. Electromagnetic force
+	c. Strong nuclear force
+	d. Weak nuclear force
+
+2. According to the theory of relativity, as an object approaches the speed of light, its mass...
+	a. Increases
+	b. Decreases
+	c. Remains constant
+	d. Becomes zero
+
+3. Which of the following phenomena is responsible for the Northern Lights (Aurora Borealis)?
+	a. Reflection
+	b. Refraction
+	c. Ionization of gases in the atmosphere
+	d. Absorption
+
+4.  In the context of particle physics, what is a quark?
+	a. Elementary particle
+	b. Composite particle
+	c. Antiparticle
+	d. Neutrino 
+
+5. According to the Heisenberg uncertainty principle, what two properties of a particle cannot be simultaneously known with arbitrary precision?
+	a. Position and velocity
+	b. Mass and energy
+	c. Spin and charge
+	d. Momentum and wavelength
+
+6. Which of the following is a fundamental property of a wave but not a particle?
+	a. Mass
+	b. Velocity
+	c. Frequency
+	d. Momentum 
+
+7. What is the principle that states that the total electric flux through a closed surface is equal to the net charge enclosed divided by the permittivity of free space?
+	a. Gauss's Law
+	b. Ampere's Law
+	c. Faraday's Law
+	d. Ohm's Law
+
+8. What is the term for the bending of a wave around an obstacle or through an opening?
+	a. Diffraction
+	b. Reflection
+	c. Refraction
+	d. Interference
+
+9. What type of lens is used to correct hypermetropia (farsightedness)?
+	a. Convex lens
+	b. Concave lens
+	c. Diverging lens
+	d. Plano-convex lens 
+
+10. Which law of motion states that for every action, there is an equal and opposite reaction?
+	a. Newton's First Law
+	b. Newton's Second Law
+	c. Newton's Third Law
+	d. Law of Inertia 
+
+11. What is the term for the minimum energy required to remove an electron from the surface of a material?
+	a. Work function
+	b. Ionization energy
+	c. Binding energy
+	d. Excitation energy 
+
+12. What is the critical angle in optics?
+	a. The angle at which total internal reflection occurs
+	b. The angle at which refraction occurs
+	c. The angle at which diffraction occurs
+	d. The angle at which polarization occurs
+
+13. According to the theory of electromagnetism, what is responsible for the magnetic field around a current-carrying wire?
+	a. Electric charge
+	b. Electric current
+	c. Magnetic charge
+	d. Voltage
+
+14. What is the phenomenon where a material becomes superconductive at temperatures close to absolute zero?
+	a. Ferromagnetism
+	b. Superfluidity
+	c. Superconductivity
+	d. Photoconductivity
+
+15. According to general relativity, what does the curvature of spacetime around a massive object cause?
+	a. Gravitational lensing
+	b. Time dilation
+	c. Quantum entanglement
+	d. Dark energy
+
